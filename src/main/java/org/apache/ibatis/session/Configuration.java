@@ -144,7 +144,7 @@ public class Configuration {
    * namespace which the actual cache is bound to.
    */
   protected final Map<String, String> cacheRefMap = new HashMap<String, String>();
-//配置信息类
+//配置信息类,存储mybatis-config.xml中的信息
   public Configuration(Environment environment) {
     this();
     this.environment = environment;
