@@ -144,7 +144,7 @@ public class Configuration {
    * namespace which the actual cache is bound to.
    */
   protected final Map<String, String> cacheRefMap = new HashMap<String, String>();
-
+//≈‰÷√–≈œ¢¿‡
   public Configuration(Environment environment) {
     this();
     this.environment = environment;
